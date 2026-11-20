@@ -1,0 +1,7 @@
+torch==2.15.0
+matplotlib==3.11.2
+transformers==5.23.0
+pandas==3.1.1
+numpy==2.4.6
+jupyter==1.1.1
+ipykernel==7.4.0

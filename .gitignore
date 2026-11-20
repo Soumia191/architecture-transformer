@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# 127 Mo : au-dessus de la limite GitHub (100 Mo par fichier).
+# Télécharger le jeu de données en local, voir le README.
+household_power_consumption.txt
